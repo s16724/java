@@ -1,0 +1,5 @@
+servlet\LogInServlet.class
+servlet\Sql.class
+servlet\RegisterServlet.class
+servlet\AdminServlet.class
+servlet\User.class
